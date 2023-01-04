@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1671353860 source:c:\users\zaidan ibnusabil\documents\coolyeah ceriya2\strukdat\tp mod 13\main.cpp
+	"graph.h"
+
+1671352522 c:\users\zaidan ibnusabil\documents\coolyeah ceriya2\strukdat\tp mod 13\graph.h
+	<iostream>
+
+1671353910 source:c:\users\zaidan ibnusabil\documents\coolyeah ceriya2\strukdat\tp mod 13\graph.cpp
+	"graph.h"
+
+1671354901 source:c:\users\pc\downloads\tp mod 13\graph.cpp
+	"graph.h"
+
+1671352522 c:\users\pc\downloads\tp mod 13\graph.h
+	<iostream>
+
+1671354900 source:c:\users\pc\downloads\tp mod 13\main.cpp
+	"graph.h"
+
